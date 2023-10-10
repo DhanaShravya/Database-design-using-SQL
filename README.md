@@ -1,1 +1,2 @@
 # Database-design-using-SQL
+The aim of this project is to design and implement a database system that will help Everblue Ocean Express to efficiently track and maintain vessel schedules to allocate the containers in their vessel containers efficiently. Different entities are identified and relationships between the identified entities are made. The design of the database is made in such a way that the company can keep track of the vessels, customers, and vessel schedules. SQL is used to implement queries to meet the system reuirements using Oracle Apex.
